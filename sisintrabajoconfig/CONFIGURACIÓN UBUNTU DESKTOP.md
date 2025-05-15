@@ -29,7 +29,7 @@ En la siguiente imagen vemos como desde la configuración no aparece ningún ada
 
 Desde Configuración/Apariencia permite cambiar el fondo, en este caso le ponemos el mismo fondo pero de color negro, en esta versión de Ubuntu a diferencia de versiones anteriores no permite cambiar el fondo de la pantalla de bloqueo.
 
-![Captura de pantalla](sisintrabajoconfig/1.2.png)
+![Captura de pantalla](1.2.png)
 
 ---
 
@@ -39,7 +39,7 @@ Desde Configuración/Apariencia permite cambiar el fondo, en este caso le ponemo
 
 Yendo a Configuración/Escritorio de Ubuntu modificamos la posición del dock a la derecha y disminuimos el tamaño de los iconos a 34.
 
-![Captura de pantalla](sisintrabajoconfig/1.3.png)
+![Captura de pantalla](1.3.png)
 
 ---
 
@@ -49,7 +49,7 @@ Yendo a Configuración/Escritorio de Ubuntu modificamos la posición del dock a 
 
 En Configuración/Privacidad y Seguridad simplemente desactivamos las notificaciones dándole al botón que viene activado por defecto.
 
-![Captura de pantalla](sisintrabajoconfig/1.4.png)
+![Captura de pantalla](1.4.png)
 
 ---
 
@@ -59,12 +59,12 @@ En Configuración/Privacidad y Seguridad simplemente desactivamos las notificaci
 
 En Configuración/Sistema vemos que todo está en Español.
 
-![Captura de pantalla](sisintrabajoconfig/1.5.1.png)
+![Captura de pantalla](1.5.1.png)
 
 
 También en Configuración/Teclado comprobamos si la fuente de entrada está en Español.
 
-![Captura de pantalla](sisintrabajoconfig/1.5.2.png)
+![Captura de pantalla](1.5.2.png)
 
 ---
 
@@ -74,13 +74,13 @@ También en Configuración/Teclado comprobamos si la fuente de entrada está en 
 
 En primer lugar activamos el icono en Configuración/Accesibilidad, ahora podemos ver un pequeño icono arriba a la derecha que antes no aparecía.
 
-![Captura de pantalla](sisintrabajoconfig/1.6.1.png)
+![Captura de pantalla](1.6.1.png)
 
 
 
 Al hacer clic sobre este icono aparece un desplegable, en este caso para probar que funciona probamos la opción de "Texto grande" y vemos como respecto a la imagen anterior, efectivamente el texto se agranda.
 
-![Captura de pantalla](sisintrabajoconfig/1.6.2.png)
+![Captura de pantalla](1.6.2.png)
 
 ---
 
@@ -90,7 +90,7 @@ Al hacer clic sobre este icono aparece un desplegable, en este caso para probar 
 
 Para este apartado vamos a Configuración/Energía y vemos que la opción de apagar pantalla viene activada por defecto en 5 minutos por lo que no es necesario hacer nada.
 
-![Captura de pantalla](sisintrabajoconfig/1.7.png)
+![Captura de pantalla](1.7.png)
 
 ---
 
@@ -100,7 +100,7 @@ Para este apartado vamos a Configuración/Energía y vemos que la opción de apa
 
 Desde Configuracion/Sistema podemos apreciar que tanto la fecha como la hora están automatizadas y que la zona horaria es la pedida.
 
-![Captura de pantalla](sisintrabajoconfig/1.8.png)
+![Captura de pantalla](1.8.png)
 
 ---
 
@@ -112,7 +112,7 @@ Desde Configuracion/Sistema podemos apreciar que tanto la fecha como la hora est
 
 En este caso al realizar la instalación de la máquina virtual se me actualizó, pero lo que debería de aparecer en el caso de que no lo hubiese actualizado sería algo como lo que vemos en la imagen pero donde nos notificaría que hay actualizaciones disponibles.
 
-![Captura de pantalla](sisintrabajoconfig/2.1.png)
+![Captura de pantalla](2.1.png)
 
 ---
 
@@ -122,9 +122,9 @@ En este caso al realizar la instalación de la máquina virtual se me actualizó
 
 Con los siguientes comandos se actualizaría el software y el sistema.
 
-![Captura de pantalla](sisintrabajoconfig/2.2.1.png)
+![Captura de pantalla](2.2.1.png)
 
-![Captura de pantalla](sisintrabajoconfig/2.2.2.png)
+![Captura de pantalla](2.2.2.png)
 
 ---
 
@@ -134,7 +134,7 @@ Con los siguientes comandos se actualizaría el software y el sistema.
 
 En este punto, al haber realizado las actualizaciones debería aparecer algo como esto:
 
-![Captura de pantalla](sisintrabajoconfig/2.3.png)
+![Captura de pantalla](2.3.png)
 
 ---
 
@@ -144,7 +144,7 @@ En este punto, al haber realizado las actualizaciones debería aparecer algo com
 
 Pese a que en versiones anteriores de Ubuntu permitía comprobar si había actualizaciones disponibles en este caso no nos lo permite, para ver la parte de configuración "Acerca de" iremos a Configuracion/Sistema/Acerca de
 
-![Captura de pantalla](sisintrabajoconfig/2.4.png)
+![Captura de pantalla](2.4.png)
 
 ---
 
@@ -154,13 +154,13 @@ Pese a que en versiones anteriores de Ubuntu permitía comprobar si había actua
 
 En este caso vemos el contenido del fichero sources.list.d, en el encontramos los repositorios online de donde se obtienen las actualizaciones.
 
-![Captura de pantalla](sisintrabajoconfig/2.5.1.png)
+![Captura de pantalla](2.5.1.png)
 
 
 
 Este archivo es el sources.list original, vemos que el contenido que tenia, se ha movido a un directorio que contiene ahora 2 archivos.
 
-![Captura de pantalla](sisintrabajoconfig/2.5.2.png)
+![Captura de pantalla](2.5.2.png)
 
 ---
 
@@ -174,11 +174,11 @@ Este archivo es el sources.list original, vemos que el contenido que tenia, se h
 
 Para poder crear un usuario necesitamos autenticarnos, lo hacemos con mi usuario
 
-![Captura de pantalla](sisintrabajoconfig/3.1.png)
+![Captura de pantalla](3.1.png)
 
 Creamos el usuario "UsuarioSistemas" al que le damos una contraseña
 
-![Captura de pantalla](sisintrabajoconfig/3.1.2.png)
+![Captura de pantalla](3.1.2.png)
 
 
 
@@ -190,7 +190,7 @@ Creamos el usuario "UsuarioSistemas" al que le damos una contraseña
 
 Iniciamos sesión en el usuario introduciendo la contraseña
 
-![Captura de pantalla](sisintrabajoconfig/3.2.png)
+![Captura de pantalla](3.2.png)
 
 ---
 
@@ -200,7 +200,7 @@ Iniciamos sesión en el usuario introduciendo la contraseña
 
 Con el siguiente comando podemos buscar en el fichero etc/passwd al usuario por su nombre, en este caso podemos ver que efectivamente aparece
 
-![Captura de pantalla](sisintrabajoconfig/3.3.png)
+![Captura de pantalla](3.3.png)
 
 ---
 
@@ -210,7 +210,7 @@ Con el siguiente comando podemos buscar en el fichero etc/passwd al usuario por 
 
 Ya que nuestro nuevo usuario no tiene permisos de administrador nos tenemos que ir a nuestro usuario administrador primero, una vez estemos nos pasamos al usuario raíz con el comando sudo su root.
 
-![Captura de pantalla](sisintrabajoconfig/3.4.png)
+![Captura de pantalla](3.4.png)
 
 ---
 
@@ -220,13 +220,13 @@ Ya que nuestro nuevo usuario no tiene permisos de administrador nos tenemos que 
 
 Aqui vemos que ya nos hemos logueado de nuevo en mi usuario
 
-![Captura de pantalla](sisintrabajoconfig/3.5.png)
+![Captura de pantalla](3.5.png)
 
 
 
 Para apagar hacemos clic arriba a la derecha, y en el desplegable buscamos la opcion de apagar.
 
-![Captura de pantalla](sisintrabajoconfig/4.png)
+![Captura de pantalla](4.png)
 
 ___
 
