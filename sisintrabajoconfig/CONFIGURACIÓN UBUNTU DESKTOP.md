@@ -19,7 +19,7 @@ tienes accesible un adaptador inalámbrico en la máquina instalada.
 
 En la siguiente imagen vemos como desde la configuración no aparece ningún adaptador inalámbrico, por lo que damos por hecho que no está accesible
 
-![Captura de pantalla](sisintrabajoconfig/1.1.png)
+![Captura de pantalla](1.1.png)
 
 ---
 
