@@ -120,9 +120,8 @@ En este caso al realizar la instalación de la máquina virtual se me actualizó
 
 
 
-Con los siguientes comandos se actualizaría el software y el sistema.
+Con los siguientes comandos se actualizaría el software y el sistema. Tambien se podría hacer sudo apt-get update y sudo apt-get upgrade.
 
-![Captura de pantalla](2.2.1.png)
 
 ![Captura de pantalla](2.2.2.png)
 
